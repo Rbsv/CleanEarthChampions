@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-TATAGame-0.1";
+const cacheName = "TATAPOWER-TATAGame-0.1";
 const contentToCache = [
     "Build/tataduniagame.loader.js",
     "Build/tataduniagame.framework.js.unityweb",
